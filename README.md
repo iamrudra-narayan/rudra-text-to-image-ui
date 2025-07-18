@@ -1,6 +1,6 @@
 # 🖼️ Text-to-Image Generator (Flask UI)
-UI Website: https://rudra-text-to-image-ui.onrender.com
-This project provides a simple web-based UI using Flask to generate AI images from text prompts via an external API ([https://rudra-text-to-image.onrender.com](https://rudra-text-to-image.onrender.com)). You can select various aspect ratios, enable seeds, and preview/download generated images directly in the same interface.
+UI Website: https://rudra-text-to-image-ui.onrender.com <br>
+This project provides a simple web-based UI using Flask to generate AI images from text prompts via an external API ([https://rudra-text-to-image.onrender.com/docs](https://rudra-text-to-image.onrender.com/docs)). You can select various aspect ratios, enable seeds, and preview/download generated images directly in the same interface.
 
 ---
 
@@ -104,7 +104,7 @@ An astronaut relaxing under a tree on Mars, cinematic lighting, ultra-realistic
 
 ## 🙏 Credits
 
-* API: [rudra-text-to-image.onrender.com](https://rudra-text-to-image.onrender.com)
+* API: [rudra-text-to-image.onrender.com/docs](https://rudra-text-to-image.onrender.com/docs)
 * UI: Inspired by OpenAI Playground, HuggingFace
 
 ---
